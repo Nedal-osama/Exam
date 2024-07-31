@@ -6,7 +6,7 @@ namespace Exam
     {
         static void Main(string[] args)
         {
-            // Create a subject
+            
             Subject subject = new Subject( 1, "Dark information");
 
             #region Question
